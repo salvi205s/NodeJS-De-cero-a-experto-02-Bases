@@ -37,7 +37,7 @@ Promises: En JavaScript, las Promesas son objetos que representan el resultado e
 Async Await:
 Async Await: Es una característica de JavaScript introducida en ECMAScript 2017 que simplifica la escritura de código asíncrono. async se utiliza para declarar una función asincrónica, y await se utiliza para esperar a que una promesa se resuelva antes de continuar la ejecución.
 Peticiones Http básicas:
-Peticiones Http básicas: Hacer solicitudes HTTP básicas implica utilizar métodos como GET, POST, PUT, o DELETE para interactuar con recursos en un servidor. Esto se puede lograr en JavaScript mediante el uso de la API fetch o bibliotecas 
+Peticiones Http básicas: Hacer solicitudes HTTP básicas implica utilizar métodos como GET, POST, PUT, o DELETE para interactuar con recursos en un servidor. Esto se puede lograr en JavaScript mediante el uso de la API fetch o bibliotecas
 como Axios.
 
 Dependencias de Producción y Desarrollo:
@@ -45,3 +45,4 @@ Dependencias de Producción y Desarrollo: En package.json, las dependencias de p
 
 Patrón adaptador para nuestras dependencias:
 Patrón adaptador para nuestras dependencias: Se refiere al uso del patrón adaptador para hacer que dependencias con interfaces incompatibles trabajen juntas. El adaptador actúa como un intermediario que permite que la interfaz de una dependencia se adapte para ser compatible con otra interfaz. Esto es útil cuando se quiere integrar o utilizar bibliotecas o módulos que no tienen la misma interfaz que el resto del sistema.
+
